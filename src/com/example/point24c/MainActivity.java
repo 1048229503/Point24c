@@ -2,7 +2,6 @@ package com.example.point24c;
 
 import android.os.Bundle;
 import android.app.Activity;
-import android.view.Menu;
 import android.view.View;
 import android.widget.Button;
 
